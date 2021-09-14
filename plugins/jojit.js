@@ -18,12 +18,11 @@ Asena.addCommand({pattern: 'jojit', fromMe: false, desc: Lang.WP}, (async (messa
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💞Jojit💞━━━━━⛦
-   
-    
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 𝐛𝐨𝐭.\n
-     *T H A K U D U*\n
-         createdby:*Jojit*\n
- Whatsapp my boss:\n
+  Hello my name is jojit i am the 
+  creator of this bot if you need 
+  any help feel free to contact
+  no calls🤙🏻 only whatsapp💫
+  Here's Whatsapp :
  https://wa.link/v2d5vu
 _________________________________
 `}) 
