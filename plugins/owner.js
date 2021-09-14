@@ -36,10 +36,10 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'Pikachu Bot created by *Ameer Suhail*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'THAKUDU bot was created by *Jojit💞\n :https://wa.link/v2d5vu*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.PLK + '*HE IS MY BOSS*', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.PLK + '*HE IS MY BOSS;My creator is Jojit💞\n :https://wa.link/v2d5vu*', MessageType.text);
         }
     }));
 }
