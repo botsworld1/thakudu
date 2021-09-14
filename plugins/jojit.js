@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'jojit', fromMe: false, desc: Lang.WP}, (async (messa
     var r_text = new Array ();
     
     
-    r_text[0] = "https://textpro.me/images/user_image/2021/09/61408bce7c0a2.jpg-s1041-b1";
+    r_text[0] = "https://img.favpng.com/16/1/6/the-boss-baby-big-boss-baby-baby-shower-animation-birthday-png-favpng-UQRMYYqEFcL9fh3hWFQKgVwVf.jpg";
     
     
     var i = Math.floor(1*Math.random())
