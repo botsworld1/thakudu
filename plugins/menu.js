@@ -23,6 +23,9 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
             *T H A K U D U*
 _________________________________
 𝗠𝗘𝗗𝗜𝗔  𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 ⚠️
+🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -owner
+⭕𝙐𝙨𝙚➜ - Display owner details
+
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -song <text>
 ⭕𝙐𝙨𝙚➜ Downloads song for you.
 ⚠️.song  baby love
