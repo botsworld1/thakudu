@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/userafake">Jojit</a> to make it p
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://wa.link/v2d5vu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://wa.link/v2d5vu" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_i-RxK4w7y89c6EeuHG_BBToc4HyEsIX3fA&usqp=CAU" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center"></h4>
 <p align="center">
