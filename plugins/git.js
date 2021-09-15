@@ -11,19 +11,16 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/2016/03/Pikachu-wallpaper-HD-dowload.jpg";
+  r_text[0] = "https://wallpaperaccess.com/full/1371433.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is Surya*
-*Creator number : https://wa.link/1cuosr*
-
-*Githublink (Setup)  :    https://github.com/suryabot-123/surya*
-
-
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is Jojit💞*
+*Creator number : https://wa.link/v2d5vu*
+*Githublink (Setup)  :    https://github.com/userafake/thakudu*
 `}) 
 
 }));
