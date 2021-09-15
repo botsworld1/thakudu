@@ -1,3 +1,4 @@
+  
 const Asena = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
 const {spawnSync} = require('child_process');
@@ -18,7 +19,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'Pikachu Bot created by *Surya*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'Pikachu Bot created by *Jojit💞*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text);
@@ -36,10 +37,10 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'*Pikachu bot created by Surya* : http://wa.me//+918547685581' , MessageType.text);
+            await message.client.sendMessage(message.jid,'THAKUDU bot was created by *Jojit*💞\n :https://wa.link/v2d5vu' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.PLK + '👈🏻He is my Owner,My creator is Surya:http://wa.me//+918547685581', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.PLK + 'HE IS MY BOSS;*My creator is Jojit*💞\n :https://wa.link/v2d5vu', MessageType.text);
         }
     }));
 }
