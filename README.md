@@ -175,7 +175,7 @@ By establishing the surya, you are deemed to have accepted these responsibilitie
 
     
 
-  [![botsworld1](https://github.com/botsworld1.png?size=50)](https://github.com/botsworld1) | [![suryabot-123](https://github.com/suryabot-123.png?size=50)](https://github.com/suryabot-123) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=200)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=200)](https://github.com/saidalisaid2) 
+  [![botsworld1](https://github.com/botsworld1.png?size=400)](https://github.com/botsworld1) | [![suryabot-123](https://github.com/suryabot-123.png?size=50)](https://github.com/suryabot-123) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=400)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=400)](https://github.com/saidalisaid2) 
 
 ----|----|----
 
