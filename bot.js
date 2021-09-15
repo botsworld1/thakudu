@@ -232,7 +232,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
 
         console.log(
 
-            chalk.green.bold('surya Running! 😎')
+            chalk.green.bold('Thakudu Running! 😎')
 
         );
 
@@ -430,9 +430,9 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
 
                             } else {
 
-                                await conn.sendMessage(conn.user.jid, '*~♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️~*' +
+                                await conn.sendMessage(conn.user.jid, '*~♥️🕊️______ 𝐓𝐇𝐀𝐊𝐔𝐃𝐔 _____🕊️♥️~*' +
 
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw'
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n Max Error oyvakkan Join Group:https://chat.whatsapp.com/CWK6uqLfAU417Qteqk4llU'
 
                                     , MessageType.text);
 
