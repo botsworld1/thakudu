@@ -42,7 +42,7 @@ Project created by <a href="https://github.com/botsworld1">botsworld1</a> to mak
 
 <p align="center">
 
-<a href="https://wa.link/v2d5vu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://wa.link/v2d5vu" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-whatsapp-1.png" alt="kyrie.baran" height="30" width="40" /></a>
 
 </p>
 
