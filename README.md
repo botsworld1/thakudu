@@ -16,7 +16,7 @@
 
  <p align="center">
 
-<a href="#"><img title="botsworld1" src="https://img.shields.io/badge/SURYA-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="botsworld1" src="https://img.shields.io/badge/T H A K U D U-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
